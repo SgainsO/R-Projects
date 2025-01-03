@@ -1,0 +1,8 @@
+state,RegisteredVoters,RegisteredPercent,unregistered,turnout,GDPGrowth,PartyTrend,Voted
+Arizona,3878,76.4,915,0.653,8,Swing,Dem
+Georgia,5233,70.7,1533,0.677,6.7,Swing,Dem
+Michigan,5513,73.8,1444,0.734,7.5,Swing,Dem
+Nevada,1455,66.2,492,0.652,8.2,Swing,Dem
+North Carolina,5161,69.8,1559,0.712,8.2,Swing,Rep
+Pennsylvania,7337,76.3,1739,0.707,6.2,Swing,Dem
+Wisconsin,3391,76.7,790,0.755,6.9,Swing,Dem

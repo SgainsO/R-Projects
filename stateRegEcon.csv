@@ -1,0 +1,52 @@
+state,RegisteredVoters,RegisteredPercent,unregistered,turnout,GDPGrowth,PartyTrend
+Alabama,2527,68,809,0.631,7,Rep
+Alaska,383,74.2,99,0.684,2.7,Rep
+Arizona,3878,76.4,915,0.653,8,Swing
+Arkansas,1361,62,517,0.559,5.9,Rep
+California,18001,69.4,5508,0.674,5.7,Rep
+Colorado,2993,71.3,859,0.755,7.1,Rep
+Connecticut,1850,73.3,494,0.701,7.5,Rep
+Delaware,542,75.1,135,0.7,6,Rep
+District of Columbia,464,86.9,61,0.637,6.5,NA
+Florida,10495,67.1,3453,0.712,9.2,Rep
+Georgia,5233,70.7,1533,0.677,6.7,Swing
+Hawaii,673,68.7,211,0.57,6.9,Dem
+Idaho,900,69.3,276,0.671,7.7,Rep
+Illinois,6590,74.4,1687,0.668,5.6,Rep
+Indiana,3412,69.3,1047,0.607,5.5,Rep
+Iowa,1742,76,418,0.728,4.6,Rep
+Kansas,1398,70.8,408,0.658,7.3,Rep
+Kentucky,2450,75.9,590,0.645,6.9,Rep
+Louisiana,2286,69.3,702,0.637,5.6,Rep
+Maine,832,77.4,188,0.755,7.8,Dem
+Maryland,3383,78.6,724,0.704,6.3,Dem
+Massachusetts,3546,72.4,979,0.716,5.8,Dem
+Michigan,5513,73.8,1444,0.734,7.5,Swing
+Minnesota,3436,82.9,588,0.796,6.2,Rep
+Mississippi,1749,80.4,343,0.597,5.9,Rep
+Missouri,3388,75.7,823,0.657,7.5,Rep
+Montana,641,77.5,144,0.723,6.6,Rep
+Nebraska,971,70.9,283,0.691,8.2,Rep
+Nevada,1455,66.2,492,0.652,8.2,Swing
+New Hampshire,843,78.3,183,0.746,7.1,Dem
+New Jersey,5008,84.6,771,0.739,6.4,Dem
+New Mexico,1028,68.6,323,0.61,5.4,Dem
+New York,9370,70.5,2764,0.63,5.8,Dem
+North Carolina,5161,69.8,1559,0.712,8.2,Swing
+North Dakota,429,77.3,97,0.64,3.1,Rep
+Ohio,6733,77,1549,0.668,6.3,Rep
+Oklahoma,1884,67.3,616,0.548,4.4,Rep
+Oregon,2590,79.9,521,0.743,6.7,Dem
+Pennsylvania,7337,76.3,1739,0.707,6.2,Swing
+Rhode Island,575,74.1,149,0.647,6.5,Rep
+South Carolina,2713,70,814,0.64,8.4,Rep
+South Dakota,437,67.4,142,0.652,7.2,Rep
+Tennessee,3742,74.3,962,0.596,7,Rep
+Texas,13343,71.8,3763,0.602,6,Rep
+Utah,1468,67.4,479,0.679,7.8,Rep
+Vermont,365,73,99,0.735,6.1,Rep
+Virginia,4541,76,1090,0.72,8,Dem
+Washington,4029,74.8,1015,0.752,8.7,Dem
+West Virginia,928,67.3,303,0.57,3.9,Rep
+Wisconsin,3391,76.7,790,0.755,6.9,Swing
+Wyoming,296,69.3,91,0.642,4.4,Rep
